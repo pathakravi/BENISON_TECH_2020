@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "benison-tech": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "benison-tech"
+    }
+  },
+  "defaultProject": "benison-tech",
+  "cli": {
+    "analytics": "6e1b9604-3ab0-4865-b30a-54813bb36593"
+  }
 }
